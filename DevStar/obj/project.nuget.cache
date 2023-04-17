@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6EGhHvJ07XeI7gkZwuxWJ4ZcD/gPafXDAcclN2LVGxqeFbqHc4gFvyi+DJocYBj7+teXt39gPuuUZMg/NXzYrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matheus.p\\source\\repos\\DevStar\\DevStar\\DevStar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.p\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\matheus.p\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
